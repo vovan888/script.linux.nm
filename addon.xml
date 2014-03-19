@@ -2,7 +2,7 @@
 <addon id="script.linux.nm"
        name="Network-Manager"
        version="0.1.5"
-       provider-name="vovan888">
+       provider-name="vikjon0, vovan888">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
